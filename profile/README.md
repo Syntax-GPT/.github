@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![banner](./BANNER.png)
+
 <!--
 
 **Here are some ideas to get you started:**
