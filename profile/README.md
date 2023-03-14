@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./BANNER.png" alt="bnr">
+  <img src="https://github.com/Syntax-GPT/.github/blob/main/profile/BANNER.png" alt="bnr">
 </p>
 <!--
 
