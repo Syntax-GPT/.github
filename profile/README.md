@@ -1,5 +1,6 @@
-![banner](./BANNER.png)
-
+<p align="center">
+  <img src="./BANNER.png" alt="banner">
+</p>
 <!--
 
 **Here are some ideas to get you started:**
