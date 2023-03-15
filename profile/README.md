@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://github.com/Syntax-GPT/.github/blob/main/profile/BANNER.png" alt="bnr">
 </p>
+
 # Syntax-GPT-3:
 
 Syntax-GPT-3 is an advanced Discord bot designed to help people with coding and offer code suggestions. Powered by OpenAI's GPT-3 technology, Syntax-GPT-3 is a powerful tool for generating code snippets and improving existing code. The bot is useful for programmers of all levels, from beginners to experienced developers. Syntax-GPT-3 provides suggestions for improving code, such as optimizing performance or fixing syntax errors, and can help users learn new coding techniques and best practices. With Syntax-GPT-3, programmers can save time by generating code snippets, reducing the amount of manual coding required. Adding Syntax-GPT-3 to a Discord server is easy and straightforward, making it a convenient resource for programmers who need assistance with coding or want to enhance their skills. Additionally, Syntax-GPT-3 is an open-source project, and users are encouraged to contribute to its development and improvement. Overall, Syntax-GPT-3 has the potential to revolutionize the way people learn and write code, making it an exciting project to be a part of.
